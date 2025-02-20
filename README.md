@@ -39,7 +39,7 @@ npm run dev
 ## Connect With Me
 Feel free to explore my portfolio and reach out—I’m always excited to discuss new projects and ideas!
 
-- **Portfolio**: [Suraj Thapa's Portfolio](https://v0-portfolio-website-y0-fe8p4m.vercel.app/)
+- **Portfolio**: [Suraj Thapa's Portfolio](https://v0-portfolio-website-4j.vercel.app/)
 - **GitHub**: https://github.com/Itssuraj-1
 
 
