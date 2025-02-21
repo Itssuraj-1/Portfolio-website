@@ -13,8 +13,7 @@ I'm Suraj Thapa, a Computer Science student with a passion for technology, codin
 - **Resume & Contact**: Links to my resume and contact information for networking and collaboration opportunities.
 
 ## Live Website
-Check out my portfolio here: [Suraj Thapa's Portfolio](https://v0-portfolio-website-4j.vercel.app/)
-
+Check out my portfolio here: [Suraj Thapa's Portfolio](https://v0-suraj-portfolio-website.vercel.app/)
 ## Technologies Used
 - **Frontend**: Next.js, React.js, Tailwind CSS
 - **Backend**: Node.js 
@@ -39,7 +38,7 @@ npm run dev
 ## Connect With Me
 Feel free to explore my portfolio and reach out—I’m always excited to discuss new projects and ideas!
 
-- **Portfolio**: [Suraj Thapa's Portfolio](https://v0-portfolio-website-4j.vercel.app/)
+- **Portfolio**: [Suraj Thapa's Portfolio](https://v0-suraj-portfolio-website.vercel.app/)
 - **GitHub**: https://github.com/Itssuraj-1
 
 
