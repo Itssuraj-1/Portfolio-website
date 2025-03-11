@@ -8,7 +8,7 @@ I'm Suraj Thapa, a Computer Science student with a passion for technology, codin
 ## Features of My Portfolio
 - **Projects Showcase**: A collection of projects demonstrating my skills in web development, including a portfolio website built using Next.js.
 - **Academic & Work Experience**: An overview of my academic achievements and professional journey, including:
-  - Internship at Sun Life Insurance as a Data Entry Intern.
+  - Internship at Sun Life Insurance as a Data Entry Intern. 
   - Role as a Social Media Manager at Nashika Auto Pvt. Ltd.
 - **Resume & Contact**: Links to my resume and contact information for networking and collaboration opportunities.
 
