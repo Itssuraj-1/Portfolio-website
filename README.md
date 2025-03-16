@@ -4,7 +4,7 @@ Welcome to my GitHub repository! This repository serves as the codebase for my o
  
 ## About Me  
 I'm Suraj Thapa, a Computer Science student with a passion for technology, coding, and creative problem-solving. My portfolio website highlights my academic background, hands-on projects, and professional experiences. 
-
+ 
 ## Features of My Portfolio
 - **Projects Showcase**: A collection of projects demonstrating my skills in web development, including a portfolio website built using Next.js. 
 - **Academic & Work Experience**: An overview of my academic achievements and professional journey, including:
