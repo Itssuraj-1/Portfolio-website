@@ -19,7 +19,7 @@ Check out my portfolio here: [Suraj Thapa's Portfolio](https://v0-suraj-portfoli
 - **Backend**: Node.js 
 - **Deployment**: Vercel
 
-## Getting Started
+## Getting Started  
 To clone and run this project locally:  
 ```sh
 # Clone the repository
