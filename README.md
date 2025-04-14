@@ -2,7 +2,7 @@
                    
 Welcome to my GitHub repository! This repository serves as the codebase for my online portfolio, where I showcase my journey as an aspiring developer.      
              
-## About Me                   
+## About Me                     
 I'm Suraj Thapa, a Computer Science student with a passion for technology, coding, and creative problem-solving. My portfolio website highlights my academic background, hands-on projects, and professional experiences.    
                     
 ## Features of My Portfolio            
