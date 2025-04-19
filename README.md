@@ -1,4 +1,4 @@
-# Suraj Thapa - Portfolio                   
+# Suraj Thapa - Portfolio                     
                      
 Welcome to my GitHub repository! This repository serves as the codebase for my online portfolio, where I showcase my journey as an aspiring developer.      
              
