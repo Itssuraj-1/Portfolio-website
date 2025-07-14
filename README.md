@@ -31,7 +31,7 @@ cd your-repo
 # Install dependencies
 npm install
 
-# Start the development server
+# Start the development server         
 npm run dev
 ```
 
