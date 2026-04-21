@@ -22,7 +22,7 @@ Check out my portfolio here: [Suraj Thapa's Portfolio](https://v0-suraj-portfoli
 ## Getting Started
 To clone and run this project locally:
 ```sh
-# Clone the repository
+# Clone the repository=
 https://github.com/Itssuraj-1/Portfolio-website.git
 
 # Navigate to the project directory
