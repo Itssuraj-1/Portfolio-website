@@ -1,4 +1,4 @@
-# Suraj Thapa - Portfolio                                                      
+# Suraj Thapa - Portfolio    
                                                
 Welcome to my GitHub repository! This repository serves as the codebase for my online portfolio, where I showcase my journey as an aspiring developer.                                 
                                            
@@ -20,7 +20,7 @@ Check out my portfolio here: [Suraj Thapa's Portfolio](https://v0-suraj-portfoli
 - **Deployment**: Vercel
 
 ## Getting Started
-To clone and run this project locally:                                 
+To clone and run this project locally:
 ```sh
 # Clone the repository
 https://github.com/Itssuraj-1/Portfolio-website.git
@@ -31,7 +31,7 @@ cd your-repo
 # Install dependencies
 npm install
 
-# Start the development server         
+# Start the development server
 npm run dev
 ```
 
